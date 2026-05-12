@@ -17,11 +17,12 @@
    npm i
    ```
 4. Start the server:
+
    ```sh
    node server.mjs
    ```
 
-6. To develop, make changes in `src/sandbox.js` and the changes will be reflected automatically in the browser.
+5. To develop, make changes in `src/sandbox.js` and the changes will be reflected automatically in the browser.
 
 # bf6-portal-ui-preview
 
