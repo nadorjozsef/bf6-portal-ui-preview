@@ -12,17 +12,13 @@
    ```sh
    cd bf6-portal-ui-preview
    ```
-3. Install dependencies:
-   ```sh
-   npm i
-   ```
-4. Start the server:
+3. Start the server:
 
    ```sh
    node server.mjs
    ```
 
-5. To develop, make changes in `src/sandbox.js` and the changes will be reflected automatically in the browser.
+4. To develop, make changes in `src/sandbox.js` and the changes will be reflected automatically in the browser.
 
 # bf6-portal-ui-preview
 
