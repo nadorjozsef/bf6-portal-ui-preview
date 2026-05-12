@@ -21,7 +21,7 @@ import {
 setStrings({
   gameUI: {
     timeToRedeploy: "{}",
-    returnToCombatArea: "RETURN TO COMB",
+    returnToCombatArea: "RETURN TO COMBAT AREA",
   },
 });
 
